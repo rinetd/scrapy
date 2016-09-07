@@ -1,0 +1,6 @@
+[submodule "submodules/.git"]
+	path = submodules/.git
+	url = git@github.com:hailong0707/spider_news_all.git
+[submodule "submodules/spider_news_all"]
+	path = submodules/spider_news_all
+	url = git@github.com:hailong0707/spider_news_all.git

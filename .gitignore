@@ -1,0 +1,59 @@
+
+.vscode
+
+# *.md #忽略根目录下所有.md后缀的文件
+# !README.md #但README.md除外
+# dir #忽略根目录dir目录
+# dir/ #忽略根目录下的dir/目录下的所有文件
+# */dir #忽略根目录下的dir目录及dir目录下的所有文件
+# **/dir 忽略所有目录下的dir目录及dir目录下的所有文件,**表示多级目录,git1.8.2及更高版本才支持
+
+# .gitignore无效解决办法
+# git rm -r --cached . #删除所有缓存
+# `git filter-branch --tree-filter 'rm -rf .tags*'`
+
+## SSH
+id_rsa*
+known_hosts
+
+## fish shell
+fishd.*
+fish/fish_history
+
+## https://github.com/github/gitignore/blob/master/Global/Tags.gitignore
+# Ignore tags created by etags, ctags, gtags (GNU global) and cscope
+TAGS
+.TAGS
+!TAGS/
+tags
+.tags
+.tags*
+!tags/
+gtags.files
+GTAGS
+GRTAGS
+GPATH
+cscope.files
+cscope.out
+cscope.in.out
+cscope.po.out
+
+## https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
