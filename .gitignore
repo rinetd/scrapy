@@ -1,5 +1,6 @@
 
 .vscode
+*.pyc
 
 # *.md #忽略根目录下所有.md后缀的文件
 # !README.md #但README.md除外

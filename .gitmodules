@@ -1,6 +1,3 @@
-[submodule "submodules/.git"]
-	path = submodules/.git
-	url = git@github.com:hailong0707/spider_news_all.git
-[submodule "submodules/spider_news_all"]
-	path = submodules/spider_news_all
-	url = git@github.com:hailong0707/spider_news_all.git
+[submodule "gnemoug/distribute_crawler"]
+	path = gnemoug/distribute_crawler
+	url = git@github.com:gnemoug/distribute_crawler.git

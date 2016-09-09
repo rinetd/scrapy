@@ -1,0 +1,15 @@
+-- mysql>source db.sql
+-- DROP语句慎用，第一次创建数据库的时候请取消注释
+DROP DATABASE IF EXISTS news;
+CREATE DATABASE news DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
+USE news;
+CREATE TABLE news_all(
+	id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	day VARCHAR(255) NOT NULL,
+	title VARCHAR(255) NOT NULL,
+	site VARCHAR(255) NOT NULL,
+	keywords VARCHAR(255),
+	type VARCHAR(255),
+	url VARCHAR(255) NOT NULL,
+	article TEXT
+) DEFAULT CHARSET=UTF8;
