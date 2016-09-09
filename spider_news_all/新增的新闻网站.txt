@@ -95,7 +95,7 @@ http://news.cnfol.com/chanyejingji/
 宏观经济  http://finance.eastmoney.com/news/chgjj_11.html
 
 
-17、凤凰财经 
+17、凤凰财经
 
 宏观> 政策 http://finance.ifeng.com/cmppdyn/752/666/1/dynlist.html
 http://finance.ifeng.com/macro/
@@ -187,8 +187,3 @@ http://news.baidu.com/n?cmd=4&class=hg_guonei&cls=hg_guonei
 http://news.baidu.com/n?cmd=4&class=hongguan&pn=1
 http://news.baidu.com/n?cmd=1&class=hongguan&pn=1
 http://news.baidu.com/n?cmd=4&class=chanye&pn=1
-
-
-
-
-

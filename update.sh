@@ -5,6 +5,7 @@ subtrees=("
 
 
 modules=("
+https://github.com/paoloo1995/scrapy-vue.git
 git@github.com:gnemoug/distribute_crawler.git
 ")
 
@@ -12,6 +13,7 @@ remove_modules=("
 ")
 # ------------------------------------------------------------------------------
 submodules=("
+https://github.com/geekan/scrapy-examples.git
 ")
 
 remove_submodules=("
