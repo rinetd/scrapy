@@ -1,9 +1,12 @@
-[submodule "gnemoug/distribute_crawler"]
-	path = gnemoug/distribute_crawler
-	url = git@github.com:gnemoug/distribute_crawler.git
-[submodule "submodules/geekan"]
-	path = submodules/geekan
+[submodule "submodules/scrapy-examples"]
+	path = submodules/scrapy-examples
 	url = https://github.com/geekan/scrapy-examples.git
-[submodule "paoloo1995/scrapy-vue"]
-	path = paoloo1995/scrapy-vue
+[submodule "submodules/distribute_crawler"]
+	path = submodules/distribute_crawler
+	url = https://github.com/gnemoug/distribute_crawler.git
+[submodule "submodules/scrapy-vue"]
+	path = submodules/scrapy-vue
 	url = https://github.com/paoloo1995/scrapy-vue.git
+[submodule "submodules/163spider"]
+	path = submodules/163spider
+	url = https://github.com/leyle/163spider.git
