@@ -1,0 +1,15 @@
+[
+{"title": ["XML \u6559\u7a0b"], "link": ["/xml/index.asp"], "desc": ["XML \u6559\u7a0b"]},
+{"title": ["XML \u7b80\u4ecb"], "link": ["/xml/xml_intro.asp"], "desc": ["XML \u7b80\u4ecb"]},
+{"title": ["XML \u7528\u9014"], "link": ["/xml/xml_usedfor.asp"], "desc": ["XML \u7684\u7528\u9014"]},
+{"title": ["XML \u6811\u7ed3\u6784"], "link": ["/xml/xml_tree.asp"], "desc": ["XML \u6811\u7ed3\u6784"]},
+{"title": ["XML \u8bed\u6cd5"], "link": ["/xml/xml_syntax.asp"], "desc": ["XML \u8bed\u6cd5\u89c4\u5219"]},
+{"title": ["XML \u5143\u7d20"], "link": ["/xml/xml_elements.asp"], "desc": ["XML \u5143\u7d20"]},
+{"title": ["XML \u5c5e\u6027"], "link": ["/xml/xml_attributes.asp"], "desc": ["XML \u5c5e\u6027"]},
+{"title": ["XML \u9a8c\u8bc1"], "link": ["/xml/xml_dtd.asp"], "desc": ["XML \u9a8c\u8bc1"]},
+{"title": ["XML \u9a8c\u8bc1\u5668"], "link": ["/xml/xml_validator.asp"], "desc": ["XML \u9a8c\u8bc1\u5668"]},
+{"title": ["XML \u6d4f\u89c8\u5668"], "link": ["/xml/xml_browsers.asp"], "desc": ["XML \u6d4f\u89c8\u5668\u652f\u6301"]},
+{"title": ["XML \u67e5\u770b"], "link": ["/xml/xml_view.asp"], "desc": ["\u67e5\u770b XML \u6587\u4ef6"]},
+{"title": ["XML CSS"], "link": ["/xml/xml_display.asp"], "desc": ["\u4f7f\u7528 CSS \u663e\u793a XML"]},
+{"title": ["XML XSLT"], "link": ["/xml/xml_xsl.asp"], "desc": ["\u4f7f\u7528 XSLT \u663e\u793a XML"]}
+]

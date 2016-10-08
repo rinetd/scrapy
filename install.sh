@@ -11,6 +11,8 @@ https://github.com/geekan/scrapy-examples.git
 https://github.com/gnemoug/distribute_crawler.git
 https://github.com/paoloo1995/scrapy-vue.git
 https://github.com/leyle/163spider.git
+https://github.com/yinzishao/NewsScrapy.git
+https://github.com/jackgitgz/CnblogsSpider.git
 ")
 
 remove_submodules=("
@@ -22,7 +24,7 @@ for url in $submodules; do
   name_all=$(basename $(dirname $url))  # git@github.com:tufu9441
   user_name=${name_all##*:}             # tufu9441
   file_name=$(basename $url .git)       # maupassant-hexo
-
+  [ -d dockerfiles/$file_name ] || mkdir -p dockerfiles/$file_name
   [ -d $subdir/$file_name ] || git submodule add --force $url $subdir/$file_name
 
 done

@@ -10,3 +10,6 @@
 [submodule "submodules/163spider"]
 	path = submodules/163spider
 	url = https://github.com/leyle/163spider.git
+[submodule "submodules/CnblogsSpider"]
+	path = submodules/CnblogsSpider
+	url = https://github.com/jackgitgz/CnblogsSpider.git
