@@ -13,3 +13,9 @@
 [submodule "submodules/CnblogsSpider"]
 	path = submodules/CnblogsSpider
 	url = https://github.com/jackgitgz/CnblogsSpider.git
+[submodule "submodules/NewsScrapy"]
+	path = submodules/NewsScrapy
+	url = https://github.com/yinzishao/NewsScrapy.git
+[submodule "submodules/scrapy-zhihu-users"]
+	path = submodules/scrapy-zhihu-users
+	url = https://github.com/ansenhuang/scrapy-zhihu-users.git
